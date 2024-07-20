@@ -1,0 +1,961 @@
+body{
+ opacity: 1;
+ background: linear-gradient(126deg, #FF0000 1%, #B53697 26%, #2E426F 49%, rgba(64, 147, 185, 0.8992) 70%, rgba(64, 255, 0, 0.6556) 98%);
+ position: relative;
+ width: 1724px;
+ height: 2173px;
+ overflow-x:hidden;
+}
+header{
+ position: absolute;
+ left: 528px;
+ top: 14px;
+ width: 42.51%;
+ height: 92.47%;
+ font-family: K2D;
+ font-size: 64px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ background: linear-gradient(98deg, #08DD41 0%, rgba(198, 215, 15, 0.736) 17%, rgba(255, 212, 0, 0.656) 24%, rgba(255, 21, 37, 0.3261) 27%, rgba(255, 0, 0, 0.18) 36%, #F41515 41%);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+ background-clip: text;
+}
+#logo{
+ position: absolute;
+ left: 0px;
+ top: 0px;
+ width: 120px;
+ height: 120px;
+ border-radius: 500px;
+ opacity: 1;
+}
+#AS{
+ position: absolute;
+ top: 0px;
+ left: 1120px;   
+ width: 120px;
+ height: 120px;
+ border-radius: 500px;
+ opacity: 1;   
+}
+#tagline{
+ position: absolute;
+ left: 756px;
+ top: 100px;
+ width: 42.51%;
+ height: 32.26%;
+ font-family: K2D;
+ font-size: 16px;
+ font-weight: 800;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: #000000;
+}
+.scroll{
+ position: absolute;
+ top: 200px;
+ left: 0px;
+ background-color: 255,255,255,0.5;
+ font-size:20px;
+ font-family: K2D;
+ font-style:italic;
+ font-weight:bold;
+ color: rgb(0, 0, 0);
+ text-shadow: 2px 2px 8px;
+}
+a{
+ color: black;
+ text-decoration: none;
+}
+#java{
+ position: absolute;
+ left: 30px;
+ top: 350px;
+ width: 213px;
+ height: 89px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold;
+}
+#javant{
+ position: absolute;
+ left: 30px;
+ top:430px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#javatxt{
+ position: absolute;
+ left: 30px;
+ top: 460px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#javavideo{
+ position: absolute;
+ left: 30px;
+ top:490px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#javavideo2{
+ position: absolute;
+ left: 130px;
+ top:490px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#line{
+ position: absolute;
+ top: 350px;
+ left: 300px;
+ height: 500px;
+ width: 2px ;
+ background-color: black;
+}
+#js{
+ position: absolute;
+ left: 530px;
+ top: 350px;
+ width: 213px;
+ height: 89px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold;    
+}
+#jsnt{
+ position: absolute;
+ left: 530px;
+ top:430px;
+ border-radius: 500px;
+ background-color: aqua;    
+}
+#jstext{
+ position: absolute;
+ left: 530px;
+ top: 460px;
+ border-radius: 500px ;
+ background-color: aqua;
+}
+#jsvideo{
+ position: absolute;
+ left: 530px;
+ top: 490px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#jsvideo2{
+ position: absolute;
+ left: 630px;
+ top: 490px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#rectangle{
+ position: absolute;
+ left: 0px;
+ top: 330px;
+ height: 150px;
+ width: 200px;
+ border: 5px solid rgb(0, 0, 0);
+ padding: 10px;
+ margin: 20px;
+ background-color: crimson;
+}
+#rectangle1{
+ position: absolute;
+ left: 500px;
+ top: 330px;
+ height: 150px;
+ width: 200px;
+ border: 5px solid rgb(0, 0, 0);
+ padding: 10px;
+ margin: 20px;
+ background-color: crimson; 
+}
+#rectangle2{
+ position: absolute;
+ left: 990px;
+ top: 330px;
+ height: 150px;
+ width: 200px;
+ border: 5px solid rgb(0, 0, 0);
+ padding: 10px;
+ margin: 20px;
+ background-color: crimson;     
+}
+#c{
+ position: absolute;
+ left: 1020px;
+ top: 350px;
+ height: 89px;
+ width: 200px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold;       
+}
+#cnt{
+ position: absolute;
+ left: 1020px;
+ top: 430px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#ctext{
+ position: absolute;
+ left: 1020px;
+ top:460px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#cvideo{
+ position: absolute;
+ left:1020px;
+ top: 490px;
+ border-radius: 500px;
+ background-color: aqua; 
+}
+#cvideo2{
+ position: absolute;
+ left:1120px;
+ top: 490px;
+ border-radius: 500px;
+ background-color: aqua; 
+}
+#rectangle3{
+ position: absolute;
+ left: 0px;
+ top: 600px;
+ height: 150px;
+ width: 200px;
+ border: 5px solid rgb(0, 0, 0);
+ padding: 10px;
+ margin: 20px;
+ background-color: crimson;
+}
+#cplusplus{
+ position: absolute;
+ left: 30px;
+ top: 620px ;
+ height: 89px;
+ width: 200px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold; 
+}
+#cplusplusnt{
+ border-radius: 500px;    
+ position: absolute;
+ left: 30px;
+ top: 700px;
+ background-color: aqua;
+}
+#cplusplustext{
+ border-radius: 500px;
+ position: absolute;
+ left: 30px;
+ top:730px ;
+ background-color: aqua;
+}
+#cplusplusvideo{
+ border-radius: 500px;
+ position: absolute;
+ left: 30px;
+ top: 760px;
+ background-color: aqua;
+}
+#cplusplusvideo2{
+ position: absolute;
+ left: 130px;
+ top: 760px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#rectangle4{
+ position: absolute;
+ left: 500px;
+ top: 600px;
+ height: 150px;
+ width: 200px;
+ border: 5px solid rgb(0, 0, 0);
+ padding: 10px;
+ margin: 20px;
+ background-color: crimson;  
+}
+#html{
+ position: absolute;
+ left: 530px;
+ top: 620px ;
+ height: 89px;
+ width: 200px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold;   
+}
+#htmlnt{
+ border-radius: 500px;
+ position: absolute;
+ left: 530px;
+ top: 730px;
+ background-color: aqua;
+}
+#htmltext{
+ position: absolute;
+ border-radius: 500px;
+ left: 630px;
+ top: 730px;
+ background-color: aqua;
+}
+#htmlvideo{
+ position: absolute;
+ border-radius: 500px;
+ left: 530px;
+ top: 760px;
+ background-color: aqua;
+}
+#htmlvideo2{
+ position: absolute;
+ border-radius: 500px;
+ left: 630px;
+ top: 760px;
+ background-color: aqua;
+}
+#rectangle5{
+ position: absolute;
+ left: 990px;
+ top: 600px;
+ height: 150px;
+ width: 200px;
+ border: 5px solid rgb(0, 0, 0);
+ padding: 10px;
+ margin: 20px;
+ background-color: crimson;     
+}
+#py{
+ position: absolute;
+ left: 1020px;
+ top: 620px;
+ height: 89px;
+ width: 200px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold; 
+}
+#pynt{
+ position: absolute;
+ left: 1020px;
+ top: 700px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#pytext{
+ position: absolute;
+ left: 1020px;
+ top: 730px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#pyvideo{
+ position: absolute;
+ left: 1020px;
+ top: 760px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#pyvideo2{
+ position: absolute;
+ left: 1120px;
+ top: 760px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#rectangle6{
+ position: absolute;
+ left: 0px;
+ top: 870px;
+ height: 150px;
+ width: 200px;
+ border: 5px solid rgb(0, 0, 0);
+ padding: 10px;
+ margin: 20px;
+ background-color: crimson;
+}
+#sql{
+ position: absolute;
+ left: 30px;
+ top: 900px;
+ height: 89px;
+ width: 200px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold; 
+}
+#sqlnt{
+ position: absolute;
+ left: 30px;
+ top: 980px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#sqltext{
+ position: absolute;
+ left: 30px;
+ top: 1010px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#sqlvideo1{
+ position: absolute;
+ left: 30px;
+ top: 1040px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#sqlvideo2{
+ position: absolute;
+ left: 130px;
+ top: 1040px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#rectangle7{
+ position: absolute;
+ left: 500px;
+ top: 870px;
+ height: 150px;
+ width: 200px;
+ border: 5px solid rgb(0, 0, 0);
+ padding: 10px;
+ margin: 20px;
+ background-color: crimson;
+}
+#php{
+ position: absolute;
+ left: 530px;
+ top: 890px ;
+ height: 89px;
+ width: 200px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold;   
+}
+#phpnt{
+ position: absolute;
+ left: 530px;
+ top: 980px;
+ background-color: aqua;
+ border-radius: 500px;
+}
+#phptext{
+ position: absolute;
+ left: 530px;
+ top: 1010px;
+ background-color: aqua;
+ border-radius: 500px;
+}
+#phpvideo1{
+ position: absolute;
+ left: 530px;
+ top: 1040px;
+ background-color: aqua;
+ border-radius: 500px;
+}
+#phpvideo2{
+ position: absolute;
+ left: 630px;
+ top: 1040px;
+ background-color: aqua;
+ border-radius: 500px;
+}
+#rectangle8{
+ position: absolute;
+ left: 990px;
+ top: 870px;
+ height: 150px;
+ width: 200px;
+ border: 5px solid rgb(0, 0, 0);
+ padding: 10px;
+ margin: 20px;
+ background-color: crimson;
+}
+#data{
+ position: absolute;
+ top: 890px;
+ left: 1020px;
+ height: 89px;
+ width: 200px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold;   
+}
+#datant{
+ position: absolute;
+ left: 1020px;
+ top: 980px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#datatext{
+ position: absolute;
+ left: 1020px;
+ top: 1010px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#datavideo1{
+ position: absolute;
+ left: 1020px;
+ top: 1040px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#bigrectangle{
+ position: absolute;
+ top: 1200px;
+ height: 500px;
+ width: 1200px;
+ border: 5px solid black;
+ margin: 20px;
+ background-color: crimson;
+}
+#spl{
+ position: absolute;
+ top: 1230px;
+ left: 30px;
+ height: 89px;
+ width: 200px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: rgb(0, 0, 0);   
+}
+#express{
+ position: absolute;
+ top: 1290px;
+ left: 30px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold; 
+}
+#ejstxt{
+ position: absolute;
+ top: 1305px;
+ left: 250px;
+ border-radius: 500px;
+ background-color: #355296;
+}
+#node{
+ position: absolute;
+ top: 1320px;
+ left: 30px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold; 
+}
+#njstxt{
+ position: absolute;
+ top: 1335px;
+ left: 250px;
+ border-radius: 500px;
+ background-color: #355296;
+}
+#angular{
+ position: absolute;
+ top: 1350px;
+ left: 30px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold; 
+}     
+#angtxt{
+ position: absolute;
+ top: 1365px;
+ left: 250px;
+ border-radius: 500px;
+ background-color: #355296;
+} 
+#mongo{
+ position: absolute;
+ top: 1380px;
+ left: 30px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold; 
+}     
+#montxt{
+ position: absolute;
+ top: 1395px;
+ left: 250px;
+ border-radius: 500px;
+ background-color: #355296;
+}
+#react{
+ position: absolute;
+ top: 1410px;
+ left: 30px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold; 
+}
+#retxt{
+ position: absolute;
+ top: 1425px;
+ left: 250px;
+ border-radius: 500px;
+ background-color: #355296;
+}
+#os{
+ position: absolute;
+ top: 1440px;
+ left: 30px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold;
+}
+#osnt{
+ position: absolute;
+ top: 1455px;
+ left: 280px;
+ border-radius: 500px;
+ background-color: #355296;
+}
+#sqlc{
+ position: absolute;
+ top: 1470px;
+ left: 30px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold;
+}
+#sqlcnt{
+ position: absolute;
+ top: 1485px;
+ left: 310px;
+ border-radius: 500px;
+ background-color: #355296;
+}
+#some{
+ position: absolute;
+ top: 1500px;
+ left: 30px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: rgb(0, 0, 0);   
+}
+#ref{
+ position: absolute;
+ top: 1530px;
+ left: 30px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold; 
+}
+.one{
+ position: absolute;
+ top: 1590px;
+ left: 30px;
+}
+#cprof{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#cprog{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#refe{
+ position: absolute;
+ top: 1610px;
+ left: 30px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold; 
+}
+.two{
+ position: absolute;
+ top: 1650px;
+ left: 30px;
+}
+#cpprof{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#cpp{ 
+ border-radius: 500px;
+ background-color: #355296;
+}
+#iitc{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#line{
+ position: absolute;
+ left: 450px;
+ top: 1215px;
+ height: 500px;
+ width: 2px;
+ background-color: rgb(0, 0, 0);
+}
+#refer{
+ position: absolute;
+ top: 1230px;
+ left: 460px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold;
+}
+.three{
+ position: absolute;
+ top: 1290px;
+ left: 460px;
+}
+#h{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#ht{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#htcs{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#refere{
+ position: absolute;
+ top: 1320px;
+ left: 460px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold;
+}
+#javaspt{
+ position: absolute;
+ top: 1360px;
+ left: 460px;
+ border-radius: 500px;
+ background-color: #355296;
+}
+#reference{
+ position: absolute;
+ top: 1390px;
+ left: 460px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold;
+}
+#python{
+ position: absolute;
+ top: 1430px;
+ left: 460px;
+ border-radius: 500px;
+ background-color: #355296;
+}
+#cheat{
+ position: absolute;
+ top: 1450px;
+ left: 460px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: rgb(0, 0, 0);   
+}
+.four{
+ position: absolute;
+ top: 1490px;
+ left: 460px;
+}
+#ai{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#all{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#ccheat{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#cpcheat{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#csscheat{
+ border-radius: 500px;
+ background-color: #355296;
+}
+.five{
+ position: absolute;
+ top: 1530px;
+ left: 460px;
+}
+#htmlcheat{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#javacheat{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#jscheat{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#mlcheat{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#mysqlcheat{
+ border-radius: 500px;
+ background-color: #355296;
+}
+.six{
+ position: absolute;
+ top: 1560px;
+ left: 460px;
+}
+#sqlcheat{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#mongocheat{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#angularcheat{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#reactcheat{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#nodecheat{
+ border-radius: 500px;
+ background-color: #355296;
+}
+#expresscheat{
+ position: absolute;
+ top: 1590px;
+ left: 460px;
+ border-radius: 500px;
+ background-color: #355296; 
+}
+footer{
+ position: absolute;
+ bottom: 20px;
+ left: -10px;
+ width: 1500px;
+ height: 150px;
+ background-color: antiquewhite;
+ padding: 5px;
+ color: black;
+ border: 5px solid black;
+}
+#center{
+ text-align: center;
+}
+#form{
+ border-radius: 500px;
+ background-color: aqua;
+ color: black;
+}

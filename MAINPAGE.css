@@ -1,0 +1,289 @@
+body{
+ opacity: 1;
+ background: linear-gradient(126deg, #FF0000 1%, #B53697 26%, #2E426F 49%, rgba(64, 147, 185, 0.8992) 70%, rgba(64, 255, 0, 0.6556) 98%);
+ position: relative;
+ width: 1440px;
+ height: 1024px;
+overflow-x:hidden;
+}
+header{
+ position: absolute;
+ left: 528px;
+ top: 14px;
+ width: 42.51%;
+ height: 92.47%;
+ font-family: K2D;
+ font-size: 64px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ background: linear-gradient(98deg, #08DD41 0%, rgba(198, 215, 15, 0.736) 17%, rgba(255, 212, 0, 0.656) 24%, rgba(255, 21, 37, 0.3261) 27%, rgba(255, 0, 0, 0.18) 36%, #F41515 41%);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+ background-clip: text;
+}
+#logo{
+ position: absolute;
+ left: 0px;
+ top: 0px;
+ width: 120px;
+ height: 120px;
+ border-radius: 500px;
+ opacity: 1;
+}
+#AS{
+ position: absolute;
+ top: 0px;
+ left: 1120px;   
+ width: 120px;
+ height: 120px;
+ border-radius: 500px;
+ opacity: 1;   
+}
+#tagline{
+ position: absolute;
+ left: 756px;
+ top: 100px;
+ width: 42.51%;
+ height: 32.26%;
+ font-family: K2D;
+ font-size: 16px;
+ font-weight: 800;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: #000000;
+}
+#profile{
+ position: absolute;
+ left: 0px;
+ top: 200px;
+ width: 120px;
+ height: 120px;
+ border-radius: 500px;
+ opacity: 1;
+}
+#program{
+ position: absolute;
+ left: 30px;
+ top: 350px;
+ width: 213px;
+ height: 89px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold;
+}
+#languages{
+ position: absolute;
+ left: 30px;
+ top:480px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#line{
+ position: absolute;
+ top: 350px;
+ left: 300px;
+ height: 500px;
+ width: 2px ;
+ background-color: black;
+}
+#placements{
+ position: absolute;
+ left: 530px;
+ top: 350px;
+ width: 213px;
+ height: 89px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold;    
+}
+#map{
+ position: absolute;
+ left: 530px;
+ top:480px;
+ border-radius: 500px;
+ background-color: aqua;    
+}
+#rectangle{
+ position: absolute;
+ left: 0px;
+ top: 330px;
+ height: 130px;
+ width: 200px;
+ border: 5px solid rgb(0, 0, 0);
+ padding: 10px;
+ margin: 20px;
+ background-color: crimson;
+}
+#rectangle1{
+ position: absolute;
+ left: 500px;
+ top: 330px;
+ height: 130px;
+ width: 200px;
+ border: 5px solid rgb(0, 0, 0);
+ padding: 10px;
+ margin: 20px;
+ background-color: crimson; 
+}
+#rectangle2{
+ position: absolute;
+ left: 990px;
+ top: 330px;
+ height: 130px;
+ width: 200px;
+ border: 5px solid rgb(0, 0, 0);
+ padding: 10px;
+ margin: 20px;
+ background-color: crimson;     
+}
+#certifications{
+ position: absolute;
+ left: 1020px;
+ top: 350px;
+ height: 130px;
+ width: 200px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold;       
+}
+#cse{
+ position: absolute;
+ left: 1020px;
+ top: 480px;
+ border-radius: 500px;
+ background-color: aqua;
+}
+#rectangle3{
+ position: absolute;
+ left: 0px;
+ top: 600px;
+ height: 130px;
+ width: 200px;
+ border: 5px solid rgb(0, 0, 0);
+ padding: 10px;
+ margin: 20px;
+ background-color: crimson;
+}
+#intern{
+ position: absolute;
+ left: 30px;
+ top: 630px ;
+ height: 130px;
+ width: 200px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold; 
+}
+#ece{
+ border-radius: 500px;    
+ position: absolute;
+ left: 30px;
+ top: 750px;
+ background-color: aqua;
+}
+#rectangle4{
+ position: absolute;
+ left: 500px;
+ top: 600px;
+ height: 130px;
+ width: 200px;
+ border: 5px solid rgb(0, 0, 0);
+ padding: 10px;
+ margin: 20px;
+ background-color: crimson;  
+}
+#os{
+ position: absolute;
+ left: 530px;
+ top: 630px ;
+ height: 130px;
+ width: 200px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold;   
+}
+#ci{
+ border-radius: 500px;
+ position: absolute;
+ left: 530px;
+ top: 750px;
+ background-color: aqua;
+}
+#rectangle5{
+ position: absolute;
+ left: 990px;
+ top: 600px;
+ height: 130px;
+ width: 200px;
+ border: 5px solid rgb(0, 0, 0);
+ padding: 10px;
+ margin: 20px;
+ background-color: crimson;     
+}
+#project{
+ position: absolute;
+ left: 1020px;
+ top: 630px;
+ height: 130px;
+ width: 200px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: gold; 
+}
+#me{
+ position: absolute;
+ border-radius: 500px;
+ left: 1020px;
+ top: 750px;
+ background-color: aqua;
+}
+a{
+ color: black;
+ text-decoration: none;
+}
+footer{
+ position: absolute;
+ bottom: 20px;
+ left: -10px;
+ width: 1250px;
+ height: 150px;
+ background-color: antiquewhite;
+ padding: 5px;
+ color: black;
+ border: 4px solid black;
+}
+#center{
+ text-align: center;
+}
+#form{
+ border-radius: 500px;
+ background-color: aqua;
+ color: black;
+}
