@@ -940,6 +940,18 @@ a{
  border-radius: 500px;
  background-color: #355296; 
 }
+#git{
+ position: absolute;
+ top: 1620px;
+ left: 460px;
+}
+#github{
+ position: absolute;
+ top: 1635px;
+ left: 615px;
+ border-radius: 500px;
+ background-color: #355296;
+}
 footer{
  position: absolute;
  bottom: 20px;
