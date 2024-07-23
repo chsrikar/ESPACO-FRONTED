@@ -164,6 +164,25 @@ a{
  font-variation-settings: "opsz" auto;
  color: rgb(0, 0, 0);   
 }
+#boot{
+ position: absolute;
+ top: 1260px;
+ left: 30px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: rgb(0, 0, 0);  
+}
+#liveboot{
+ position: absolute;
+ top: 1275px;
+ left: 250px;
+ border-radius: 500px;
+ background-color: #2E426F;
+}
 footer{
  position: absolute;
  bottom: 20px;
