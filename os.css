@@ -164,6 +164,45 @@ a{
  font-variation-settings: "opsz" auto;
  color: rgb(0, 0, 0);   
 }
+#live{
+ position: absolute;
+ top: 1290px;
+ left: 30px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: rgb(0, 0, 0); 
+}
+.button{
+ border-radius: 500px;
+ background-color: aqua;
+}
+#liveusb{
+ position: absolute;
+ top: 1305px;
+ left: 350px;
+}
+#vm{
+ position: absolute;
+ top: 1320px;
+ left: 30px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: rgb(0, 0, 0); 
+}
+#virtualbox{
+ position:absolute;
+ top: 1335px;
+ left: 440px;
+ 
+}
 footer{
  position: absolute;
  bottom: 20px;
