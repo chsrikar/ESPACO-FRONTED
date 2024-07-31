@@ -428,6 +428,25 @@ a{
   border-radius: 500px;
  background-color: aqua;
 }
+#dual{
+ position: absolute;
+ top: 1330px;
+ left: 30px;
+ height: 89px;
+ width: 400px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: rgb(0, 0, 0);
+}
+#dualboot{
+ position: absolute;
+ top: 1360px;
+ left: 390px;
+}
 footer{
  position: absolute;
  bottom: 20px;
