@@ -1,0 +1,224 @@
+body{
+ opacity: 1;
+ background: linear-gradient(126deg, #FF0000 1%, #B53697 26%, #2E426F 49%, rgba(64, 147, 185, 0.8992) 70%, rgba(64, 255, 0, 0.6556) 98%);
+ position: relative;
+ width: 1440px;
+ height: 2173px;
+ overflow-x:hidden;
+}
+header{
+ position: absolute;
+ left: 528px;
+ top: 14px;
+ width: 42.51%;
+ height: 92.47%;
+ font-family: K2D;
+ font-size: 64px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ background: linear-gradient(98deg, #08DD41 0%, rgba(198, 215, 15, 0.736) 17%, rgba(255, 212, 0, 0.656) 24%, rgba(255, 21, 37, 0.3261) 27%, rgba(255, 0, 0, 0.18) 36%, #F41515 41%);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+ background-clip: text;
+}
+#logo{
+ position: absolute;
+ left: 0px;
+ top: 0px;
+ width: 120px;
+ height: 120px;
+ border-radius: 500px;
+ opacity: 1;
+}
+ #AS{
+ position: absolute;
+ top: 0px;
+ left: 1120px;   
+ width: 120px;
+ height: 120px;
+ border-radius: 500px;
+ opacity: 1;   
+}
+#tagline{
+ position: absolute;
+ left: 756px;
+ top: 100px;
+ width: 42.51%;
+ height: 32.26%;
+ font-family: K2D;
+ font-size: 16px;
+ font-weight: 800;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: #000000;
+}
+.scroll{
+ position: absolute;
+ top: 200px;
+ left: 0px;
+ background-color: 255,255,255,0.5;
+ font-size:20px;
+ font-family: K2D;
+ font-style:italic;
+ font-weight:bold;
+ color: rgb(0, 0, 0);
+ text-shadow: 2px 2px 8px;
+}
+a{
+ color: black;
+ text-decoration: none;
+}
+.one{
+ height: 150px;
+ width: 200px;
+ border: 5px solid rgb(0, 0, 0);
+ padding: 10px;
+ margin: 20px;
+ background-color: crimson;  
+}
+#rectangle{
+ position: absolute;
+ left: 0px;
+ top: 330px;
+}
+.subhead{
+ color: gold;
+ width: 213px;
+ height: 89px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+}
+#s1{
+ position: absolute;
+ top: 350px;
+ left: 30px;
+}
+.button{
+ border-radius: 500px;
+ background-color: aqua;
+}
+
+#rectangle1{
+ position: absolute;
+ top: 330px;
+ left: 500px;
+}
+#s2{
+ position: absolute;
+ top: 350px;
+ left: 530px;
+}
+#rectangle2{
+ position: absolute;
+ top: 330px;
+ left: 990px;
+}
+#s3{
+ position: absolute;
+ top: 350px;
+ left: 1020px;
+}
+
+#rectangle3{
+ position: absolute;
+ left: 0px;
+ top: 600px;
+}
+#s4{
+ position: absolute;
+ top: 620px;
+ left: 30px;
+}
+
+#rectangle4{
+ position: absolute;
+ top: 600px;
+ left: 500px;
+}
+#s5{
+ position: absolute;
+ top: 620px;
+ left: 530px;
+}
+
+#rectangle5{
+ position: absolute;
+ top: 600px;
+ left: 990px;
+}
+#s6{
+ position: absolute;
+ top: 620px;
+ left: 1020px;
+}
+
+#rectangle6{
+ position: absolute;
+ top: 870px;
+ left: 0px;
+}
+#s7{
+ position: absolute;
+ top: 890px;
+ left: 30px;
+}
+
+#rectangle7{
+ position: absolute;
+ top:  870px;
+ left: 500px;
+}
+#s8{
+ position: absolute;
+ top: 890px;
+ left: 530px;
+}
+
+#bigrectangle{
+ position: absolute;
+ top: 1200px;
+ height: 500px;
+ width: 1200px;
+ border: 5px solid black;
+ margin: 20px;
+ background-color: crimson;
+}
+#spl{
+ position: absolute;
+ top: 1230px;
+ left: 30px;
+ height: 89px;
+ width: 200px;
+ font-family: Just Another Hand;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: normal;
+ letter-spacing: 0em;
+ font-variation-settings: "opsz" auto;
+ color: rgb(0, 0, 0);   
+}
+footer{
+ position: absolute;
+ bottom: 20px;
+ left: -10px;
+ width: 1450px;
+ height: 150px;
+ background-color: antiquewhite;
+ padding: 5px;
+ color: black;
+ border: 4px solid black;
+}
+#center{
+ text-align: center;
+}
+#form{
+ border-radius: 500px;
+ background-color: aqua;
+ color: black;
+}
