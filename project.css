@@ -78,11 +78,6 @@ a{
  margin: 20px;
  background-color: crimson;  
 }
-#rectangle{
- position: absolute;
- left: 0px;
- top: 330px;
-}
 .subhead{
  color: gold;
  width: 213px;
@@ -94,16 +89,25 @@ a{
  letter-spacing: 0em;
  font-variation-settings: "opsz" auto;
 }
+.button{
+ border-radius: 500px;
+ background-color: aqua;
+}
+#rectangle{
+ position: absolute;
+ left: 0px;
+ top: 330px;
+}
 #s1{
  position: absolute;
  top: 350px;
  left: 30px;
 }
-.button{
- border-radius: 500px;
- background-color: aqua;
+#py{
+ position: absolute;
+ top: 480px;
+ left: 60px;
 }
-
 #rectangle1{
  position: absolute;
  top: 330px;
@@ -113,6 +117,11 @@ a{
  position: absolute;
  top: 350px;
  left: 530px;
+}
+#java{
+ position: absolute;
+ top: 480px;
+ left: 580px;
 }
 #rectangle2{
  position: absolute;
@@ -124,7 +133,11 @@ a{
  top: 350px;
  left: 1020px;
 }
-
+#js{
+ position: absolute;
+ top: 480px;
+ right: 28S0px;
+}
 #rectangle3{
  position: absolute;
  left: 0px;
